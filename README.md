@@ -7,5 +7,5 @@ The NE555 controls the timing, allowing the dispenser to release sanitizer for a
 This repository contains the **schematic and PCB files** for the project in Kicad, ready for assembly.
 
 ## Files
-- `schematic/` → KiCad schematic files  
-- `pcb/` → KiCad PCB layout files  
+just download all the files and put them in a foulder and open it with kicad , you find there 
+shymatics and pcb 
